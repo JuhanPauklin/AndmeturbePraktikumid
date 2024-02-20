@@ -7,3 +7,6 @@ Esimeses praktikumis kordasime Linuxi käske ja tuletasime meelde Operatsioonis�
 
 Ül3  
 ![3](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/0b35283a-58d6-4a22-be41-b3f7bcf0d15a)
+
+Ül4  
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/4d380924-4d00-4943-af28-f6014af87364)
