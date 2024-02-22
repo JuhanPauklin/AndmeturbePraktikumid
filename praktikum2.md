@@ -4,6 +4,8 @@ Teises praktikumis tegelesime paroolidega. Õppisime räsi ja soola kohta. Murds
 Kasutasime John'i eesti sõnastiku abil. 
 
 Ül1
+Kuus leitud salasõna olid 'ut', 'ati', 'hack', 'hd', 'led', 'asdf'
+
 ```python
 import string, crypt
 
@@ -36,3 +38,11 @@ for encrypted in encrypted_list:
 print(pass_list)
 
 ```
+Ül2  
+![2](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/9c2ed5fc-4bdf-49f2-89ed-dbcc810ae177)  
+
+Ül3  
+Matrikkel: C03189
+Password: peace1
+![3](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/56f6a53e-2264-456c-9a39-a0bba339da08)
+
