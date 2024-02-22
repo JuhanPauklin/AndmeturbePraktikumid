@@ -46,3 +46,6 @@ Matrikkel: C03189
 Password: peace1
 ![3](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/56f6a53e-2264-456c-9a39-a0bba339da08)
 
+Ül4  
+Link KeePass2 andmebaasile: https://github.com/JuhanPauklin/AndmeturbePraktikumid/blob/main/DatabaseJP.kdbx  
+
