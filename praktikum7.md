@@ -11,4 +11,8 @@ Juhan Pauklin
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/a38b06c6-68c9-4ec4-b72b-7dc13624dc0a)
 
 Ül 4
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/af012928-0407-45b7-ba94-24d8a98a032a)
+
+Ül 5  
+
 
