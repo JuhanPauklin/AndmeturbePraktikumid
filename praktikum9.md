@@ -8,6 +8,7 @@
 
 Ül 3  
 GMER ei leidnud ülesse C:\WINDOWS\system32\gzipmod.dll !!!
+Eno Menov võib kinnitada. Kurtsin talle ka.
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/645a1f60-17fe-444a-b037-f66fdafe4f3d)
 
 Ül 4  
@@ -15,3 +16,8 @@ GMER ei leidnud ülesse C:\WINDOWS\system32\gzipmod.dll !!!
 
 Ül 5
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/ad91a433-0f88-4585-844b-9af9782dc298)
+
+Ül 6  
+See oluline programm tundub olevat Firefox. Näeme selle Setup MaintenaceService ja viimasena ka Firefox.exe failide installeerimist.
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/f928966e-683d-4de6-bd09-2e4cc42c9881)
+
