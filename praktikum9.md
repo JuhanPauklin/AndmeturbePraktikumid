@@ -10,8 +10,8 @@
 GMER ei leidnud ülesse C:\WINDOWS\system32\gzipmod.dll !!!
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/645a1f60-17fe-444a-b037-f66fdafe4f3d)
 
-ÜL 4  
+Ül 4  
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/5020a696-1441-4dcc-b2e8-5ea9b5751f3d)
 
-Ül 
+Ül 5
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/ad91a433-0f88-4585-844b-9af9782dc298)
