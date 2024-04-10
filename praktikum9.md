@@ -5,3 +5,6 @@
 
 Ül 2
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/fd137ffe-ffdc-49f7-8724-f57bcf4d4dae)
+
+Ül 3  
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/61d097a5-ed59-42b1-b5c5-3c2ca1862f33)
