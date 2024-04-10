@@ -21,3 +21,7 @@ Eno Menov võib kinnitada. Kurtsin talle ka.
 See oluline programm tundub olevat Firefox. Näeme selle Setup MaintenaceService ja viimasena ka Firefox.exe failide installeerimist.
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/f928966e-683d-4de6-bd09-2e4cc42c9881)
 
+ÜL 7  
+Tööriist ei leidnud ülesse Pauklin.txt faili, nii et joonistasin Paintis Pauklin.bmp faili ja kustutasin selle.
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/d643290a-b93d-486c-bd81-ef2e583d15ec)
+
