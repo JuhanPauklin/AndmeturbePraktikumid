@@ -6,3 +6,5 @@
 Ül 2  
 Vabandust kuid tundub, et mul esines probleeme selle ülesandega. Tegin kodust üle GlobalProtect VPNi ning ma ei saanud oma TÜ kasutaja parooli kuvada. Ohvri arvutiks oli minu enda sülearvuti (Windows 11) ja Ründaja omaks muidugi Linux Mint virtuaalmasin.
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/e2f302f2-99d0-468d-a135-b984b5f0d8ff)
+
+Ül 3
