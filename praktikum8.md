@@ -10,4 +10,5 @@ siis sobib ka see esitus, eksole? :)
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/e2f302f2-99d0-468d-a135-b984b5f0d8ff)
 
 Ül 3
-![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/d753c523-389d-41d2-8b65-683a33dcb98c)
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/7419e032-04f4-41a5-9d97-82e7a5c027b6)
+
