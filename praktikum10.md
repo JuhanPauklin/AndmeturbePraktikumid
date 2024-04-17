@@ -57,3 +57,26 @@ Ründajal on võimalik luua naabrireklaam, mis reklaamib tema enda teise kihi aa
 Windowsil on väidetavasti palju teenuseid, mis kuulavad sissetulevaid ühendusi, kuid Linuxil ja MacOS'il on neid vähe.
 
 4. 
+```
+#!/bin/sh
+ip6tables -F 
+ip6tables -X naabrid6
+ip6tables -N naabrid6
+
+ip6tables -A INPUT -i lo -j ACCEPT
+ip6tables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+ip6tables -A INPUT -s 192.168.0.191 -j naabrid6 
+
+ip6tables -A naabrid6 -j LOG --log-prefix "Pauklin-NAABRID6-ahel "
+
+ip6tables -A naabrid6 -m state --state NEW -p tcp --dport 80 -j ACCEPT
+ip6tables -A naabrid6 -m state --state NEW -p tcp --dport 443 -j ACCEPT
+
+ip6tables -A naabrid6 -j RETURN
+
+ip6tables -A INPUT -j LOG --log-prefix "input-reject "
+ip6tables -A INPUT -j REJECT
+
+sudo iptables -L -nv --line-numbers
+```
