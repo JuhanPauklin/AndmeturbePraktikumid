@@ -39,10 +39,21 @@ sudo iptables -L -nv --line-numbers
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/42e094d0-acff-4296-8ca1-13b8c2a1bff9)
 
 Ül 3
-1.
-Neighbor Discovery Protocol (NDP) haavatavused: NDP-d kasutatakse IPv6 võrkudes naaberseadmete avastamiseks ja marsruutimistabelite haldamiseks. Ründajad saavad kasutada NDP turvaauke, et käivitada erinevaid rünnakuid, nagu Neighbor Discovery Spoofing (Est.k Naabrite avastamise võltsimine), Router Advertisement Spoofing (Est.k Ruuteri Reklaamide Võltsimine) ja Neighbor Cache Poisoning (Est.k Naabri Vahemälu Mürgitamine).
+1. Esitasin küsimuse ChatGPT'le inglise keeles ning ise kohandasin ning tõlkisin need eesti keelde. (https://chat.openai.com/share/03bcd13b-09df-4d38-8fff-5e0fce2bf605) 
+  1) Neighbor Discovery Protocol (NDP) haavatavused: NDP-d kasutatakse IPv6 võrkudes naaberseadmete avastamiseks ja marsruutimistabelite haldamiseks. Ründajad saavad kasutada NDP turvaauke, et käivitada erinevaid rünnakuid, nagu Neighbor Discovery Spoofing (Est.k Naabrite avastamise võltsimine), Router Advertisement Spoofing (Est.k Ruuteri Reklaamide Võltsimine) ja Neighbor Cache Poisoning (Est.k Naabri Vahemälu Mürgitamine).
 
-Killustumine ja uuesti kokkupanemine: IPv6 võimaldab IPv4-ga võrreldes suuremaid pakette, mis võib edastuse ajal põhjustada pakettide killustumist. Killustamisega seotud rünnakud, nagu Fragmentation Off Path Attack (Est.k killustumise teelt väljas rünnak) ja Packet Reassembly Attack (Est.k pakettide uuesti kokkupanemise rünnak), võivad ära kasutada IPv6 pakettide killustamise ja uuesti kokkupanemise mehhanismide nõrkusi.
+  2) Killustumine ja uuesti kokkupanemine: IPv6 võimaldab IPv4-ga võrreldes suuremaid pakette, mis võib edastuse ajal põhjustada pakettide killustumist. Killustamisega seotud rünnakud, nagu Fragmentation Off Path Attack (Est.k killustumise teelt väljas rünnak) ja Packet Reassembly Attack (Est.k pakettide uuesti kokkupanemise rünnak), võivad ära kasutada IPv6 pakettide killustamise ja uuesti kokkupanemise mehhanismide nõrkusi.
 
-Üleminekumehhanismid: IPv4-lt IPv6-le üleminekul kasutatakse kahe protokolli ühilduvuse tagamiseks erinevaid üleminekumehhanisme, nagu topeltpinu, tunneldamine ja tõlkimine. Need mehhanismid tekitavad täiendavat keerukust ja potentsiaalseid turvaauke. Näiteks saab tunneliprotokolle, nagu 6to4 ja Teredo, kasutada varjatud suhtluseks või turvakontrollist möödahiilimiseks.
+  3) Üleminekumehhanismid: IPv4-lt IPv6-le üleminekul kasutatakse kahe protokolli ühilduvuse tagamiseks erinevaid üleminekumehhanisme, nagu topeltpinu, tunneldamine ja tõlkimine. Need mehhanismid tekitavad täiendavat keerukust ja potentsiaalseid turvaauke. Näiteks saab tunneliprotokolle, nagu 6to4 ja Teredo, kasutada varjatud suhtluseks või turvakontrollist möödahiilimiseks.
 
+2. Vastus pärineb veebilehelt https://packetlife.net/blog/2009/feb/2/ipv6-neighbor-spoofing/ (külastatud 17/04/2024)
+ARP spoofile sarnane rünne IPv6 aadressiruumis kannab nime "IPv6 Naabri Spoofing".  
+See rünne kasutab ära seda, kui host soovib edastada edastada "on-link" prefiksile, kuid ei tea veel sihthosti teise kihi aadressi.
+(Ei leidnud eestikeelset vastet terminile "neighbour advertisement". Tõgin seda otse, kui "naabrireklaam")
+Saatev host saadab naabrireklaami multiedastuse ja sihthost, kui see on kättesaadav, vastab naaberreklaamiga, mis sisaldab tema teise kihi aadressi.
+Ründajal on võimalik luua naabrireklaam, mis reklaamib tema enda teise kihi aadressi, mis kuulub teistele lingil olevatele hostidele.
+
+3. Leidsin vastuse veebisaidilt https://ubuntuforums.org/showthread.php?t=2489705 (Külastatud 17/04/2024)  
+Windowsil on väidetavasti palju teenuseid, mis kuulavad sissetulevaid ühendusi, kuid Linuxil ja MacOS'il on neid vähe.
+
+4. 
