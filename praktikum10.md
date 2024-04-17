@@ -34,6 +34,7 @@ sudo iptables -L -nv --line-numbers
 
 Ül 2  
 
-![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/80d7841f-8d85-4457-b703-07e3409add64)
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/d9c48b71-2728-4168-8691-c76597e0f1e3)
+
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/42e094d0-acff-4296-8ca1-13b8c2a1bff9)
 
