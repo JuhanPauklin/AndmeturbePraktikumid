@@ -31,3 +31,7 @@ iptables -A INPUT -j REJECT
 
 sudo iptables -L -nv --line-numbers
 ```
+
+Ül 2  
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/ac5ce6b5-c395-4445-b423-bf3004d62f04)
+![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/80d7841f-8d85-4457-b703-07e3409add64)
