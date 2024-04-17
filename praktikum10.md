@@ -40,11 +40,11 @@ sudo iptables -L -nv --line-numbers
 
 Ül 3
 1. Esitasin küsimuse ChatGPT'le inglise keeles ning ise kohandasin ning tõlkisin need eesti keelde. (https://chat.openai.com/share/03bcd13b-09df-4d38-8fff-5e0fce2bf605) 
-  1) Neighbor Discovery Protocol (NDP) haavatavused: NDP-d kasutatakse IPv6 võrkudes naaberseadmete avastamiseks ja marsruutimistabelite haldamiseks. Ründajad saavad kasutada NDP turvaauke, et käivitada erinevaid rünnakuid, nagu Neighbor Discovery Spoofing (Est.k Naabrite avastamise võltsimine), Router Advertisement Spoofing (Est.k Ruuteri Reklaamide Võltsimine) ja Neighbor Cache Poisoning (Est.k Naabri Vahemälu Mürgitamine).
+    a) Neighbor Discovery Protocol (NDP) haavatavused: NDP-d kasutatakse IPv6 võrkudes naaberseadmete avastamiseks ja marsruutimistabelite haldamiseks. Ründajad saavad kasutada NDP turvaauke, et käivitada erinevaid rünnakuid, nagu Neighbor Discovery Spoofing (Est.k Naabrite avastamise võltsimine), Router Advertisement Spoofing (Est.k Ruuteri Reklaamide Võltsimine) ja Neighbor Cache Poisoning (Est.k Naabri Vahemälu Mürgitamine).
 
-  2) Killustumine ja uuesti kokkupanemine: IPv6 võimaldab IPv4-ga võrreldes suuremaid pakette, mis võib edastuse ajal põhjustada pakettide killustumist. Killustamisega seotud rünnakud, nagu Fragmentation Off Path Attack (Est.k killustumise teelt väljas rünnak) ja Packet Reassembly Attack (Est.k pakettide uuesti kokkupanemise rünnak), võivad ära kasutada IPv6 pakettide killustamise ja uuesti kokkupanemise mehhanismide nõrkusi.
+    b) Killustumine ja uuesti kokkupanemine: IPv6 võimaldab IPv4-ga võrreldes suuremaid pakette, mis võib edastuse ajal põhjustada pakettide killustumist. Killustamisega seotud rünnakud, nagu Fragmentation Off Path Attack (Est.k killustumise teelt väljas rünnak) ja Packet Reassembly Attack (Est.k pakettide uuesti kokkupanemise rünnak), võivad ära kasutada IPv6 pakettide killustamise ja uuesti kokkupanemise mehhanismide nõrkusi.
 
-  3) Üleminekumehhanismid: IPv4-lt IPv6-le üleminekul kasutatakse kahe protokolli ühilduvuse tagamiseks erinevaid üleminekumehhanisme, nagu topeltpinu, tunneldamine ja tõlkimine. Need mehhanismid tekitavad täiendavat keerukust ja potentsiaalseid turvaauke. Näiteks saab tunneliprotokolle, nagu 6to4 ja Teredo, kasutada varjatud suhtluseks või turvakontrollist möödahiilimiseks.
+    c) Üleminekumehhanismid: IPv4-lt IPv6-le üleminekul kasutatakse kahe protokolli ühilduvuse tagamiseks erinevaid üleminekumehhanisme, nagu topeltpinu, tunneldamine ja tõlkimine. Need mehhanismid tekitavad täiendavat keerukust ja potentsiaalseid turvaauke. Näiteks saab tunneliprotokolle, nagu 6to4 ja Teredo, kasutada varjatud suhtluseks või turvakontrollist möödahiilimiseks.
 
 2. Vastus pärineb veebilehelt https://packetlife.net/blog/2009/feb/2/ipv6-neighbor-spoofing/ (külastatud 17/04/2024)
 ARP spoofile sarnane rünne IPv6 aadressiruumis kannab nime "IPv6 Naabri Spoofing".  
