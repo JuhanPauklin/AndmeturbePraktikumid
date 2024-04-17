@@ -39,7 +39,7 @@ sudo iptables -L -nv --line-numbers
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/42e094d0-acff-4296-8ca1-13b8c2a1bff9)
 
 Ül 3
-1. Esitasin küsimuse ChatGPT'le inglise keeles ning ise kohandasin ning tõlkisin need eesti keelde. (https://chat.openai.com/share/03bcd13b-09df-4d38-8fff-5e0fce2bf605) 
+1. Esitasin küsimuse ChatGPT'le inglise keeles ning ise kohandasin ning tõlkisin need eesti keelde. (https://chat.openai.com/share/03bcd13b-09df-4d38-8fff-5e0fce2bf605)  
     a) Neighbor Discovery Protocol (NDP) haavatavused: NDP-d kasutatakse IPv6 võrkudes naaberseadmete avastamiseks ja marsruutimistabelite haldamiseks. Ründajad saavad kasutada NDP turvaauke, et käivitada erinevaid rünnakuid, nagu Neighbor Discovery Spoofing (Est.k Naabrite avastamise võltsimine), Router Advertisement Spoofing (Est.k Ruuteri Reklaamide Võltsimine) ja Neighbor Cache Poisoning (Est.k Naabri Vahemälu Mürgitamine).
 
     b) Killustumine ja uuesti kokkupanemine: IPv6 võimaldab IPv4-ga võrreldes suuremaid pakette, mis võib edastuse ajal põhjustada pakettide killustumist. Killustamisega seotud rünnakud, nagu Fragmentation Off Path Attack (Est.k killustumise teelt väljas rünnak) ja Packet Reassembly Attack (Est.k pakettide uuesti kokkupanemise rünnak), võivad ära kasutada IPv6 pakettide killustamise ja uuesti kokkupanemise mehhanismide nõrkusi.
