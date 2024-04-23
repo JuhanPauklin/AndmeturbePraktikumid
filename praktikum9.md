@@ -26,8 +26,12 @@ Tööriist ei leidnud ülesse Pauklin.txt faili, nii et joonistasin Paintis Pauk
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/d643290a-b93d-486c-bd81-ef2e583d15ec)
 
 Ül 8  
-  Hypponen (viruses): Esimestes olid hooletud pahalased jätnud vihjed oma isikute kohta. Basit ja Anjadi nimed. Vene auto numbrimärk.
-  Langner (stuxnet): Viirused võivad olla kirjutatud madala taseme keeles nagu assembleri laadses, sest sellistega saab rünnata kontrollkaste. 
-  Rubin (hacking): Ka vanematesse automudelite (uuematega pole üllatust) "arvutitesse" on võimalik sisestada pahavara, mis käivitub olenevalt hetke kiirusest. 
-  Glenny (hackers): Autismiga inimestel on lubav karjäär küberkuritegevuses. Olgu, tõsisem teadmine videost on, et tihti edukad häkkerid on noorest saati kuritegeliku või ebasotsiaalse taustaga + Neid ei tohiks puhtalt karistada vaid veenda "heale teele" white hat häkkeriteks. 
-  Myrstad (privacy): Kasutajatingimused tõesti ongi ebainimlikult pikad + nende kohta kaebamine (mitte küll suvaliselt vaid kohtusse) võib tuua kaasa reaalseid muudatusi paremuse poole.
+  Hypponen (viruses): Esimestes olid hooletud pahalased jätnud vihjed oma isikute kohta. Basit ja Anjadi nimed. Vene auto numbrimärk.  
+  
+  Langner (stuxnet): Viirused võivad olla kirjutatud madala taseme keeles nagu assembleri laadses, sest sellistega saab rünnata kontrollkaste.   
+  
+  Rubin (hacking): Ka vanematesse automudelite (uuematega pole üllatust) "arvutitesse" on võimalik sisestada pahavara, mis käivitub olenevalt hetke kiirusest.   
+  
+  Glenny (hackers): Autismiga inimestel on lubav karjäär küberkuritegevuses. Olgu, tõsisem teadmine videost on, et tihti edukad häkkerid on noorest saati kuritegeliku või ebasotsiaalse taustaga + Neid ei tohiks puhtalt karistada vaid veenda "heale teele" white hat häkkeriteks.   
+  
+  Myrstad (privacy): Kasutajatingimused tõesti ongi ebainimlikult pikad + nende kohta kaebamine (mitte küll suvaliselt vaid kohtusse) võib tuua kaasa reaalseid muudatusi paremuse poole.  
