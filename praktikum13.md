@@ -19,4 +19,8 @@ Client side -> Client side filtering.
 ![grafik](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/6905f9e4-1101-41f4-90a9-103c08b5dea6)
 
 (A5) Security Misconfiguration -> XXE -> 4 ja 7.  
+![grafik](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/656d769e-ba36-4732-b0ad-f64b055383bf)
+![grafik](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/6dc2829b-5a9d-4f18-94e4-5360feb4b6d8)
+
+
 (A1) Broken Access Control -> Insecure Direct Object References -> 5.   
