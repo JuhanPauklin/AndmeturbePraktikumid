@@ -16,5 +16,7 @@ Client side -> Client side filtering.
 ![image](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/ec4656c1-8205-4927-a525-eb0e38e14191)
 
 (A10) Server-side Request Forgery -> Cross-Site Requests Forgeries -> Ülesanne 7.  
+![grafik](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/6905f9e4-1101-41f4-90a9-103c08b5dea6)
+
 (A5) Security Misconfiguration -> XXE -> 4 ja 7.  
 (A1) Broken Access Control -> Insecure Direct Object References -> 5.   
