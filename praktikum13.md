@@ -23,4 +23,6 @@ Client side -> Client side filtering.
 ![grafik](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/6dc2829b-5a9d-4f18-94e4-5360feb4b6d8)
 
 
-(A1) Broken Access Control -> Insecure Direct Object References -> 5.   
+(A1) Broken Access Control -> Insecure Direct Object References -> 5.  
+![grafik](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/22c8cb7d-092a-466b-9cb0-c94f03839d8e)
+
