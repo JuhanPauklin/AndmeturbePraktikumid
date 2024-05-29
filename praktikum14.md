@@ -8,3 +8,5 @@ Jõudsin pildi teha enne kui selle kogemata kinni panin
 Tegin 2x 200pts (ATIS 200 pts ja ROOTKIT 200pts)  
 ![pilt](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/fe1bee76-45b8-4f6a-9dc2-c7008ce504f4)
 
+## Ülevaade  
+![pilt](https://github.com/JuhanPauklin/AndmeturbePraktikumid/assets/90179916/e8ef8297-2131-440a-a0f4-d048d4d6272e)
