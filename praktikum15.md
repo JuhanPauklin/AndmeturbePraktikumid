@@ -20,3 +20,6 @@
 3) See et nutiseadme ega smart-ID'ga ei saa e-hääletada on vähesel määral tehiniline aga peamiselt poliitiline otsus.  
    Tehniline, sest Lätis ja Leedus on kasutusel vähem turvaline samrt-ID variant ja kuna seda on suudetud edukalt rünnata, siis turvalisuse huvides ei taheta lasta smart-ID valimisteks kasutada.  
    Peamiselt aga on otsuse taga poliitika, sest smart-ID pole riigi poolt väljastatav isikut tõendav dokument, vaid on eraettevõttele kuuluv isikutuvastuse ja digitaalse allkirjastamise rakendus, ning seetõttu ka smart-ID tulevik ei ole riigi kontrolli all
+
+4) Arvan, et e-hääletamine on turvalisem kui valimiskasti juures paberhääletamine. Kindlasti vähemalt Eesti puhul, kus see on turvaliselt ning õiglaselt implementeeritud. Selle ülesehitus muudab hääle raskesti võltsitavaks ; hääle kontrollimise võimalus aitab tuvastada ründeid või hääle pahatahtliku muutmist.
+   Paberhäält on hulga kergem võltsida/rikkuda ning sellel puudub ka võimalus oma häält kontrollida.
